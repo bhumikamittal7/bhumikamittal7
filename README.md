@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Bhumika, a junior at Ashoka University, majoring in Computer Science with a minor in Mathematics and Entrepreneurial leadership and strategy. Here's my [personal website](https://bhumikamittal.in)
+I am Bhumika, a junior at Ashoka University, majoring in Computer Science with a minor in Mathematics and Entrepreneurship. Here's my [personal website](https://bhumikamittal.in)
 
 - 🔭 I’m currently working in the Computer Architecture and Systems for ML.
 - 👯 Interested in cloud computing, HCI, computational creativity, and computational learning
