@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 I am Bhumika, a junior at Ashoka University, majoring in Computer Science with a minor in Mathematics and Entrepreneurship. Here's my [personal website](https://bhumikamittal.in)
 
-- 🔭 I’m currently working in the Computer Architecture and Systems for ML.
-- 👯 Also interested in cloud computing, HCI, computational creativity, and computational learning
+- 🔭 I’m currently working in Computer Architecture, Systems for ML and Computer Networks.
+- 👯 Also interested in HCI, Operating Systems and Cloud Computing
 - 📫 Just drop me an email at <bhumika.mittal_ug24@ashoka.edu.in>
 - 😄 Pronouns: she/her
 
