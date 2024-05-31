@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 
 I am Bhumika, a junior at Ashoka University, majoring in Computer Science with a minor in Mathematics and Entrepreneurship. 
 
-- 🔭 I’m currently interested in Computer Architecture and Modern Cryptography.
+- 🔭 My research interests broadly span Cryptography, specifically lattice-based post-quantum cryptography
+- 🌱 I'm also currently interested in exploring topics in Computer Architecture
 - 👯 Here's my [personal website](https://bhumikamittal.in)
-- 📫 Just drop me an email at <bhumika.mittal_ug24@ashoka.edu.in>
+- 📫 Just drop me an email at <mittalbhumika7@gmail.com>
 - 😄 Pronouns: she/her
 
 ## ⚡ Technologies
