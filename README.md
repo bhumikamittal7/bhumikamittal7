@@ -1,17 +1,17 @@
-Hi, I am Bhumika. 
+Hi, I’m Bhumika.
 
-I am a recent graduate from [Ashoka University](https://www.ashoka.edu.in/) (B.S. Computer Science and Mathematics, *summa cum laude*), currently working as a software engineer at [Amuse Labs](https://amuselabs.com/).
+I am a recent graduate of [Ashoka University](https://www.ashoka.edu.in/) (B.S. Computer Science and Mathematics, *summa cum laude*), and currently work as a software engineer at [Amuse Labs](https://amuselabs.com/).
 
 ## Research Interests
-My research focuses on **theoretical computer science**, with particular emphasis on:
+My current research focuses on:
 - **Cryptography**: Lattice-based cryptography, post-quantum signatures, ring trapdoor functions
-- **Complexity Theory**: Fine-grained complexity, reductions, computational hardness
-- **Quantum Computing**: Quantum algorithms, quantum complexity, quantum cryptography
-- **Formal Logic**: Ehrenfeucht–Fraïssé games, Linear Temporal Logic, Büchi Automata
+- **Programming Languages and Formal Verification**: program analysis, with a focus on finite field computations and verification of cryptographic implementations
+- **Formal Logic**: Ehrenfeucht–Fraïssé games, linear temporal logic, Büchi automata
 
-My undergraduate thesis explored [Ring Trapdoor Functions: A Lattice-Based Framework for Secure Ring Signatures](https://bhumikamittal.in/assets/pdf/undergrad_thesis_bhumika.pdf), developing foundations for lattice-based cryptographic primitives.
+My undergraduate thesis [Ring Trapdoor Functions: A Lattice-Based Framework for Secure Ring Signatures](https://bhumikamittal.in/assets/pdf/undergrad_thesis_bhumika.pdf), developed a framework for constructing secure ring signatures from lattice assumptions.
 
-Previously, I have worked with the Data Systems Group at the Max Planck Institute for Software Systems, the Centre for Artificial Intelligence and Robotics (CAIR) at DRDO, IIT Delhi, and the nanoDC Lab at IIT Gandhinagar.
+I have also held research positions at the Max Planck Institute for Software Systems, IIT Delhi, and IIT Gandhinagar, working on problems across data systems, cryptography, and hardware-aware optimization.
+
 
 ## Links
 - **Website**: [bhumikamittal.in](https://bhumikamittal.in)
